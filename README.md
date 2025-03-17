@@ -69,22 +69,8 @@
       - [Deep Reinforcement Learning Course by Hugging Face](https://huggingface.co/deep-rl-course)
       - [CS234: Reinforcement Learning (Stanford)](http://web.stanford.edu/class/cs234/)
 
----
-
-## Практическая часть: обучение RL-агента Huggy
-
-В рамках воркшопа вы сможете применить полученные знания на практике, обучив RL-агента Huggy. Huggy — это виртуальный агент, который учится взаимодействовать с окружением, чтобы достичь цели.
-
-### Что вы сделаете:
-1. Создадите конфигурационный файл для Huggy.
-2. Обучите Huggy с использованием алгоритма PPO.
-3. Загрузите обученную модель в Hugging Face Hub.
-4. Протестируете Huggy в браузере.
-
----
-
 ## Как начать?
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-репозиторий.git
+   git clone <git-link>
